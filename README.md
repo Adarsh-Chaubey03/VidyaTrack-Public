@@ -1,6 +1,6 @@
 # 📚 VidyaTrack – Learn. Grow. Connect.
 
-> **Note:** This is a public showcase repository. The full source code is maintained privately for security reasons. If you wish to access it, please comment or message with your details for review.
+> **Note:** This is a public showcase repository. The full source code is maintained privately for security reasons. If you wish to access it, please comment or message with your details.
 
 ---
 
