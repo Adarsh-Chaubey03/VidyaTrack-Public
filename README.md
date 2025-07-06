@@ -64,4 +64,19 @@ This stack ensures a **robust, secure, and scalable platform** for an enriched e
 
 **VidyaTrack** unifies learning and mentorship, empowering students and educators through a collaborative, growth-focused platform.
 
+
+
+
+---
+
+
+
+
+**Reach out to access entire source code for this project:**
+
+
+
+![image](https://github.com/user-attachments/assets/305fc491-eaa0-4c49-ac6a-31a3db5c888c)
+
+
 ---
